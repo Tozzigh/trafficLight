@@ -21,7 +21,7 @@ export class TrafficLight extends React.Component {
 		}
 
 		return (
-			<div>
+			<div className="container">
 				<div className="stick" />
 				<div className="traffic">
 					<div
